@@ -1,5 +1,3 @@
-# fundraising-converter/fundraising-converter/README.md
-
 # Fundraising Converter
 
 This project is a Python application that converts a CSV file containing donation data into an Excel file with German headings and generates a PDF file formatted in three columns.
@@ -25,6 +23,7 @@ fundraising-converter
 ## Installation
 
 1. Clone the repository:
+
    ```
    git clone <repository-url>
    cd fundraising-converter
@@ -38,6 +37,7 @@ fundraising-converter
 ## Usage
 
 To run the application, execute the following command:
+
 ```
 python src/main.py
 ```
